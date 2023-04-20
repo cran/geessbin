@@ -1,0 +1,14 @@
+d46e018d52add3c74d8a80566cd5c0f6 *DESCRIPTION
+9e5e84abe048e5622bc900fdf33a37cb *NAMESPACE
+d98e9078442f2b4e60eaa6e4897dbd51 *NEWS.md
+43e53922338b44a1392d2fb7eb7517b9 *R/geessbin.R
+a007be10bba35d8f7e119d090c76e2e4 *R/sqrtmat.R
+2b454bda11c3f88844759ec93d696723 *R/wheeze.R
+eaae1712bc6d81bfa350874d985b3591 *README.md
+cb4924f3573383fca290a0a8e2ca5294 *build/partial.rdb
+63e6c4c22445a45116c54a1e4cff163d *data/wheeze.rda
+2e41ae84f375948c6ce888ae9bf483ca *man/geessbin.Rd
+2cf37eb33761b16a3d51d17ff93d29aa *man/sqrtmat.Rd
+7eb1e46a6c6c506524873f25ff3f3f76 *man/wheeze.Rd
+ea6df308474e163f368df61ae9289f17 *tests/testthat.R
+b8650d10fb53b2a9d58e81ed5009b169 *tests/testthat/test_geessbin.R
