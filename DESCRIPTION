@@ -1,7 +1,7 @@
 Package: geessbin
 Type: Package
 Title: Modified Generalized Estimating Equations for Binary Outcome
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(person("Ryota", "Ishii", email = "r.ishii0808@gmail.com",
                   role = c("aut", "cre")),
                  person("Tomohiro", "Ohigashi", role = "ctb"),
@@ -19,14 +19,14 @@ License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/rtishii/geessbin
-RoxygenNote: 7.2.2
+RoxygenNote: 7.2.3
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-04-20 09:37:33 UTC; rishii
+Packaged: 2023-07-08 02:16:52 UTC; rishii
 Author: Ryota Ishii [aut, cre],
   Tomohiro Ohigashi [ctb],
   Kazushi Maruo [ctb],
   Masahiko Gosho [ctb]
 Repository: CRAN
-Date/Publication: 2023-04-20 17:32:30 UTC
+Date/Publication: 2023-07-08 04:00:02 UTC
